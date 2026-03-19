@@ -1,0 +1,3 @@
+myapp:
+  greeting: "Привет из боевого окружения (prod)!"
+  db-url: "jdbc:postgresql://prod-server:5432/realdb"

@@ -1,0 +1,3 @@
+myapp:
+  greeting: "Привет из разработки (dev)!"
+  db-url: "jdbc:h2:mem:devdb"
